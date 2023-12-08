@@ -1,5 +1,5 @@
 # Halal Checker Backend
-This is an unofficial repo of Jabatan Kemajuan Islam Malaysia (JAKIM) halal status checker backend.
+This is an unofficial repo of [Jabatan Kemajuan Islam Malaysia (JAKIM)](https://www.islam.gov.my/ms/) halal status checker backend.
 
 ## Requirements
 OS: MacOS / Linux / WSL
